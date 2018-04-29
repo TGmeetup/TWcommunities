@@ -4,14 +4,20 @@
 ## Table of Contents
 - [Communities](#communities)
    - [DigitalOcean Hsinchu](#digitalocean-hsinchu)
+- [Conferences](#conferences)
+   - [COSCUP](#coscup)
 - [Contributors](#contributors)
 - [Contribute](#contribute)
 
 ## Communities
 ### DigitalOcean Hsinchu
-- [Events & slides](DigitalOceanHsinchu.md)
+- [Events & slides](communities/DigitalOceanHsinchu.md)
 - Location: 新竹(Hsinchu)/台灣(Taiwan)
 - Keywords: `cloud`, `DevOps`, `open source`
+
+## Conferences
+### COSCUP
+- [Events](conferences/COSCUP.md)
 
 ## Contributors
 謝謝貢獻者們，您可以到 https://github.com/TGmeetup/TWcommunities/graphs/contributors 看到他們。

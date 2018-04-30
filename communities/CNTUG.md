@@ -6,11 +6,11 @@
 ## Table of Contents
 - [介紹](#介紹)
 - [活動投影片](#活動投影片)
-    - [Software Defined Network](#Software-Defined-Network)
-    - [Software Defined Storage](#Software-Defined-Storage)
-    - [Cloud Native](#Cloud-Native)
-    - [Openstack](#Openstack)
-    - [Misc](#Misc)
+    - [Software Defined Network](#software-defined-network)
+    - [Software Defined Storage](#software-defined-storage)
+    - [Cloud Native](#cloud-native)
+    - [Openstack](#openstack)
+    - [Misc](#misc)
 
 ## 介紹
 Cloud Native Taiwan User Group 希望整合台灣雲端相關社群如 OpenStack, Kubernetes, Ceph, SDN 等，並利用 Meetup 定期在各台灣地區舉辦技術與推廣分享活動。目的是藉此群策群力來使該社團快速成長，以對台灣在雲端開源平台的貢獻，另外我們更希望該社群持有 Cloud Native 概念，並將此推廣至台灣企業、學校、政府單位等。
@@ -23,7 +23,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - https://www.facebook.com/groups/sdnds.tw/
 
 ## 活動投影片
-asdsad
 ### Software Defined Network
 - An Introduction to Open Source Networking, Software Defined Network and Open Network Foundation
     - Speaker: 邱宏瑋(hwchiu)

@@ -5,6 +5,7 @@
 - [Communities](#communities)
    - [Ansible Taiwan](#ansible-taiwan)
    - [DigitalOcean Hsinchu](#digitalocean-hsinchu)
+   - [Golang Taiwan](#golang-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
 - [Contributors](#contributors)
@@ -22,7 +23,10 @@
 - Location: 新竹(Hsinchu)/台灣(Taiwan)
 - Keywords: `cloud`, `DevOps`, `open source`
 
-
+### Golang Taiwan
+- [GolangTaiwanGathering](https://github.com/golangtw/GolangTaiwanGathering)
+- Location: 台灣(Taiwan)
+- Keywords: `Golang`
 
 ## Conferences
 ### COSCUP

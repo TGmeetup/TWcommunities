@@ -6,7 +6,9 @@
    - [Ansible Taiwan](#ansible-taiwan)
    - [Cloud Native Taiwan User Group](#cloud-native-taiwan-user-group)
    - [DigitalOcean Hsinchu](#digitalocean-hsinchu)
+   - [GCPUG.TW](#gcpug.tw)
    - [Golang Taiwan](#golang-taiwan)
+   - [Scala Taiwan](#scala-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
 - [Contributors](#contributors)
@@ -29,10 +31,21 @@
 - Location: 新竹(Hsinchu)/台灣(Taiwan)
 - Keywords: `cloud`, `DevOps`, `open source`
 
+### GCPUG.TW
+- [官網](http://gcpug.tw/)
+- [GCPUG.TW meetup](https://www.youtube.com/playlist?list=PLBxDwki2j4mfiXxa8f-Y7yuyY1PFlpFDg)
+- Location: 台灣(Taiwan)
+- Keywords: `cloud`, `Google`
+
 ### Golang Taiwan
 - [GolangTaiwanGathering](https://github.com/golangtw/GolangTaiwanGathering)
 - Location: 台灣(Taiwan)
 - Keywords: `Golang`
+
+### Scala Taiwan
+- [Scala Taiwan meetup slides](https://github.com/ScalaTaiwan/ScalaTaiwan)
+- Location: 台灣(Taiwan)
+- Keywords: `Scala`
 
 ## Conferences
 ### COSCUP

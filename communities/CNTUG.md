@@ -15,10 +15,10 @@
 ## 介紹
 Cloud Native Taiwan User Group 希望整合台灣雲端相關社群如 OpenStack, Kubernetes, Ceph, SDN 等，並利用 Meetup 定期在各台灣地區舉辦技術與推廣分享活動。目的是藉此群策群力來使該社團快速成長，以對台灣在雲端開源平台的貢獻，另外我們更希望該社群持有 Cloud Native 概念，並將此推廣至台灣企業、學校、政府單位等。
 
-CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/ 
+CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
-- Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/ 
-- Facebook Group: 
+- Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
+- Facebook Group:
     - https://www.facebook.com/groups/cloudnative.tw/about/
     - https://www.facebook.com/groups/sdnds.tw/
 
@@ -49,7 +49,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 陳柏瑜
     - Slides: https://goo.gl/X7qNKC
 
-- Write a RGW compression plugin for Google Brotli 
+- Write a RGW compression plugin for Google Brotli
     - Speaker: 柯弼舜
     - Slides: https://goo.gl/j5Paaa
 
@@ -63,11 +63,11 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/46TuLK
 
 - How to integrate Kubernetes in OpenStack: You need to know these project
-    - Speaker: 李孟澤 & 白凱仁(Monster Hunter)
+    - Speaker: 李孟澤 & 白凱仁(kairen)
     - Slides: https://goo.gl/hDSBej
 
 - How to contribute to Kubernetes community
-    - Speaker: 白凱仁(Monster Hunter)
+    - Speaker: 白凱仁(kairen)
     - Slides: https://goo.gl/FMB3vn
 
 - Kubernetes storage and GlusterFS
@@ -75,7 +75,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/zfj2Ha
 
 - Write an Operator to handle Kubernetes CRD
-    - Speaker: 白凱仁(Monster Hunter)
+    - Speaker: 白凱仁(kairen)
     - Slides: https://goo.gl/VApnfy
 
 - Service mesh: from Linkerd to Conduit
@@ -83,12 +83,12 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/8KAzUw
 
 - 說好不洩題的 CKA 準備與技巧分享
-    - Speaker: 陳逸凡
-    - Slides: 
+    - Speaker: 陳逸凡 & 白凱仁(kairen)
+    - Slides:
         - https://goo.gl/JtfKbT
         - https://goo.gl/nspx7C
         - https://goo.gl/GKKo1H
-       
+
 - Kubernetes 101
     - Speaker: 陳大慶
     - Slides: https://goo.gl/YpFFsj
@@ -98,11 +98,11 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/3AAC91
 
 - Build the Blockchain as a Service  using Ethereum on Kubernetes
-    - Speaker: 林義洋
+    - Speaker: 李麒傑
     - Slides: https://goo.gl/sQM1hs
 
 - Kubeflow: Machine Learning Toolkit for Kubernetes
-    - Speaker: 陳大慶
+    - Speaker: 林義洋
     - Slides: https://goo.gl/F67BJk
 
 ### Openstack
@@ -120,7 +120,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 - OpenStack 101
     - Speaker: 陳彥勝
-    - Slides: 
+    - Slides:
         - https://goo.gl/CqhEF2
         - https://goo.gl/1dYTqY
 
@@ -132,7 +132,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - High Performance Networking
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://goo.gl/VBvk49
-    
+
 - Brief Introduction to Kata Containers
     - Speaker: 郭靖 (GeneKuo)
     - Slides: https://goo.gl/CypFdB

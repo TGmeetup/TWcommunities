@@ -4,9 +4,9 @@
 ## Table of Contents
 - [Communities](#communities)
    - [Ansible Taiwan](#ansible-taiwan)
+   - [Cloud Native Taiwan User Group](#cloud-native-taiwan-user-group)
    - [DigitalOcean Hsinchu](#digitalocean-hsinchu)
    - [Golang Taiwan](#golang-taiwan)
-   - [Cloud Native Taiwan User Group](#cloud-native-taiwan-user-group)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
 - [Contributors](#contributors)
@@ -19,6 +19,11 @@
 - Location: 台灣(Taiwan)
 - Keywords: `Ansible`
 
+### Cloud Native Taiwan User Group
+- [Events & slides](communities/CNTUG.md)
+- Location: 台中(Taichung)/台北(Taipei)/台灣(Taiwan)
+- Keywords: `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
+
 ### DigitalOcean Hsinchu
 - [Events & slides](communities/DigitalOceanHsinchu.md)
 - Location: 新竹(Hsinchu)/台灣(Taiwan)
@@ -28,11 +33,6 @@
 - [GolangTaiwanGathering](https://github.com/golangtw/GolangTaiwanGathering)
 - Location: 台灣(Taiwan)
 - Keywords: `Golang`
-
-### Cloud Native Taiwan User Group
-- [Events & slides](communities/CNTUG.md)
-- Location: 台北(Taipei)/台灣(Taiwan)
-- Keywords: `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
 
 ## Conferences
 ### COSCUP

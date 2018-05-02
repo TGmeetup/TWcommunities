@@ -128,11 +128,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 郭靖 (GeneKuo)
     - Slides: https://goo.gl/UFvvHZ
 
-- Deploy Kubernetes on OpenStack using Kubespray
-    - Speaker: 郭靖 (GeneKuo)
-    - Slides: https://goo.gl/UFvvHZ
-
-
 ### Misc
 - High Performance Networking
     - Speaker: 邱宏瑋(hwchiu)

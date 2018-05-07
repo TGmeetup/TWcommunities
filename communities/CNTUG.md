@@ -19,7 +19,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 - Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Facebook Group:
-    - https://www.facebook.com/groups/cloudnative.tw/about/
+    - https://fb.cloudnative.tw
     - https://www.facebook.com/groups/sdnds.tw/
 
 ## 活動投影片
@@ -107,11 +107,11 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 ### Openstack
 - Introduction and OpenStack Trends
-    - Speaker: 曾柏凱 & 郭靖 (GeneKuo)
+    - Speaker: 曾柏凱 & 郭靖 (iGene)
     - Slides: https://goo.gl/qC3tmq
 
 - How to get involved into OpenStack Community
-    - Speaker: 郭靖 (GeneKuo)
+    - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/Tt4qSV
 
 - How to contribute to OpenStack (codes)
@@ -125,7 +125,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - https://goo.gl/1dYTqY
 
 - Deploy Kubernetes on OpenStack using Kubespray
-    - Speaker: 郭靖 (GeneKuo)
+    - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/UFvvHZ
 
 ### Misc
@@ -134,5 +134,5 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/VBvk49
 
 - Brief Introduction to Kata Containers
-    - Speaker: 郭靖 (GeneKuo)
+    - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/CypFdB

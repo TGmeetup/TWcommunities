@@ -16,6 +16,14 @@ We are a new local technology meetup group located at Hsinchu city, organized by
 - Facebook Group: https://www.facebook.com/groups/DigitalOceanHsinchu
 
 ## 活動投影片
+### Ansible with DigitalOcean
+###### `container`, `Ansible`, `DigitalOcean`
+Date: 2018/05/14  
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/975877209238565
+- Topic: Ansible with DigitalOcean
+   - Speaker: Max Huang [@sakanamax](https://github.com/sakanamax)
+   - Slides: https://bit.ly/2wGsgRI
+
 ### Kata Container introduction
 ###### `container`
 Date: 2018/04/21  

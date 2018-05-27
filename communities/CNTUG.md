@@ -140,6 +140,10 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://goo.gl/pjnzZJ
 
+- Kubernetes Scheduler 的兩三事
+    - Speaker: 白凱仁(kairen)
+    - Slides: http://bit.ly/2xkgBZq
+
 ### Misc
 - High Performance Networking
     - Speaker: 邱宏瑋(hwchiu)

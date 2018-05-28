@@ -44,6 +44,10 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 陳建豪(ONF Ambassador)
     - Slides: https://goo.gl/JVBrr3
 
+- P4 新手初探
+    - Speaker: 傅珊蓉
+    - Slides: bit.ly/p4cntug
+
 ### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system
     - Speaker: 陳柏瑜
@@ -127,6 +131,18 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Deploy Kubernetes on OpenStack using Kubespray
     - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/UFvvHZ
+
+- Serving docker containers in an immutable infrastructure
+    - Speaker: Niek Palm
+    - Slides: https://040code.github.io/2018/05/26/talk-taipei/
+
+- Kubernetes 與 Docker Registry 的愛恨情仇
+    - Speaker: 邱宏瑋(hwchiu)
+    - Slides: https://goo.gl/pjnzZJ
+
+- Kubernetes Scheduler 的兩三事
+    - Speaker: 白凱仁(kairen)
+    - Slides: http://bit.ly/2xkgBZq
 
 ### Misc
 - High Performance Networking

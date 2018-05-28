@@ -2,7 +2,6 @@
 
 ###### `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
 
-
 ## Table of Contents
 - [介紹](#介紹)
 - [活動投影片](#活動投影片)
@@ -46,7 +45,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 - P4 新手初探
     - Speaker: 傅珊蓉
-    - Slides: bit.ly/p4cntug
+    - Slides: http://bit.ly/p4cntug
 
 ### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system
@@ -95,6 +94,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 - Kubernetes 101
     - Speaker: 陳大慶
+    - Blog: https://tachingchen.com/tw/
     - Slides: https://goo.gl/YpFFsj
 
 - 從入門到放棄，原來 CNI 這麼複雜
@@ -108,6 +108,23 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Kubeflow: Machine Learning Toolkit for Kubernetes
     - Speaker: 林義洋
     - Slides: https://goo.gl/F67BJk
+
+- Serving docker containers in an immutable infrastructure
+    - Speaker: Niek Palm
+    - Slides: https://040code.github.io/2018/05/26/talk-taipei/
+
+- Kubernetes 與 Docker Registry 的愛恨情仇
+    - Speaker: 邱宏瑋(hwchiu)
+    - Slides: https://goo.gl/pjnzZJ
+
+- Kubernetes Scheduler 的兩三事
+    - Speaker: 白凱仁(kairen)
+    - Slides: http://bit.ly/2xkgBZq
+
+- Fission: Functions as a Service for Kubernetes
+    - Speaker: 陳大慶(life1347)
+    - Blog: https://tachingchen.com/tw/
+    - Slides: http://bit.ly/2xm7JCu
 
 ### Openstack
 - Introduction and OpenStack Trends
@@ -131,18 +148,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Deploy Kubernetes on OpenStack using Kubespray
     - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/UFvvHZ
-
-- Serving docker containers in an immutable infrastructure
-    - Speaker: Niek Palm
-    - Slides: https://040code.github.io/2018/05/26/talk-taipei/
-
-- Kubernetes 與 Docker Registry 的愛恨情仇
-    - Speaker: 邱宏瑋(hwchiu)
-    - Slides: https://goo.gl/pjnzZJ
-
-- Kubernetes Scheduler 的兩三事
-    - Speaker: 白凱仁(kairen)
-    - Slides: http://bit.ly/2xkgBZq
 
 ### Misc
 - High Performance Networking

@@ -11,6 +11,7 @@
    - [Scala Taiwan](#scala-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
+   - [SITCON](#sitcon)
 - [Contributors](#contributors)
 - [Contribute](#contribute)
 
@@ -50,6 +51,9 @@
 ## Conferences
 ### COSCUP
 - [Events](conferences/COSCUP.md)
+
+### SITCON
+- [Events](conferences/SITCON.md)
 
 ## Contributors
 謝謝貢獻者們，您可以到 https://github.com/TGmeetup/TWcommunities/graphs/contributors 看到他們。

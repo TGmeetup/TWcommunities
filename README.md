@@ -59,4 +59,4 @@
 謝謝貢獻者們，您可以到 https://github.com/TGmeetup/TWcommunities/graphs/contributors 看到他們。
 
 ## Contribute
-歡迎您隨意開 issue 或送 PR 唷！ 謝謝您的加入！
+歡迎您隨意開 issue 或送 PR 唷！若您想要送 PR 到 TWcommunities ，請您先看看 [CONTRIBUTING.md](CONTRIBUTING.md)。這些內容可以幫助您更快了解如何貢獻本專案。謝謝您的加入！

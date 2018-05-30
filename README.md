@@ -11,6 +11,7 @@
    - [Scala Taiwan](#scala-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
+   - [PyConTW](#pycontw)
    - [SITCON](#sitcon)
 - [Contributors](#contributors)
 - [Contribute](#contribute)
@@ -51,6 +52,9 @@
 ## Conferences
 ### COSCUP
 - [Events](conferences/COSCUP.md)
+
+### PyConTW
+- [Events](conferences/PyConTW.md)
 
 ### SITCON
 - [Events](conferences/SITCON.md)

@@ -9,6 +9,7 @@
    - [GCPUG.TW](#gcpug.tw)
    - [Golang Taiwan](#golang-taiwan)
    - [Scala Taiwan](#scala-taiwan)
+   - [Julia Taiwan](#julia-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
    - [PyConTW](#pycontw)
@@ -48,6 +49,13 @@
 - [Scala Taiwan meetup slides](https://github.com/ScalaTaiwan/ScalaTaiwan)
 - Location: 台灣(Taiwan)
 - Keywords: `Scala`
+
+### Julia Taiwan
+- [Julia Taiwan FB 社群](https://www.facebook.com/groups/JuliaTaiwan/)
+- [Julian News 新知發佈平台](https://www.facebook.com/juliannewstw/)
+- [Slides](communities/JuliaTaiwan.md)
+- Location: 台灣(Taiwan)
+- Keywords: `julialang`, `HPC`, `Scientific computing`, `Numerical computing`
 
 ## Conferences
 ### COSCUP

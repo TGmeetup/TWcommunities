@@ -14,15 +14,15 @@ Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼
 ## 活動投影片
 - Julia 語言入門
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20161209julia-taiwan-first-meetupjulia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20161209julia-taiwan-first-meetupjulia)
 
 - Julia Type System and Multiple Dispatch
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20170113-julias-type-system-and-multiple-dispatch%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20170113-julias-type-system-and-multiple-dispatch)
 
 - Julia 小程式到專案發佈之旅
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20170217-julia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20170217-julia)
 
 - Julia 開發環境介紹 - JuliaPro & JuliaBox
     - Speaker: 蔡豐任
@@ -30,7 +30,7 @@ Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼
 
 - Functional programming in Julia
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20170317-functional-programming-in-julia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20170317-functional-programming-in-julia)
 
 - Julia 互動式網站開發
     - Speaker: 蔡豐任
@@ -38,11 +38,11 @@ Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼
 
 - Metaprogramming in Julia
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/201705-metaprogramming-in-julia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/201705-metaprogramming-in-julia)
 
 - Concurrency in Julia
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20170714-concurrency-in-julia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20170714-concurrency-in-julia)
 
 - Deep learning with Julia
     - Speaker: Iblis Lin
@@ -54,11 +54,11 @@ Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼
 
 - Julia Tips in Manipulating Files
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20171014-tips-for-manipulating-filesystem-in-julia%}
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20171014-tips-for-manipulating-filesystem-in-julia)
 
 - OOP and design patterns in Julia
     - Speaker: 杜岳華
-    - Slides: <iframe src="//www.slideshare.net/slideshow/embed_code/key/2ZFewD7AbdKSjX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuserd6984b/20171117-oop-and-design-patterns-in-julia" title="20171117 oop and design patterns in julia" target="_blank">20171117 oop and design patterns in julia</a> </strong> from <strong><a href="https://www.slideshare.net/ssuserd6984b" target="_blank">岳華 杜</a></strong> </div>
+    - [Slides](https://www.slideshare.net/ssuserd6984b/20171117-oop-and-design-patterns-in-julia)
 
 - 語言特性大亂鬥
     - Speaker: 杜岳華

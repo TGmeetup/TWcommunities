@@ -58,7 +58,7 @@ Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼
 
 - OOP and design patterns in Julia
     - Speaker: 杜岳華
-    - Slides: {%slideshare ssuserd6984b/20171117-oop-and-design-patterns-in-julia%}
+    - Slides: <iframe src="//www.slideshare.net/slideshow/embed_code/key/2ZFewD7AbdKSjX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuserd6984b/20171117-oop-and-design-patterns-in-julia" title="20171117 oop and design patterns in julia" target="_blank">20171117 oop and design patterns in julia</a> </strong> from <strong><a href="https://www.slideshare.net/ssuserd6984b" target="_blank">岳華 杜</a></strong> </div>
 
 - 語言特性大亂鬥
     - Speaker: 杜岳華

@@ -8,7 +8,7 @@
 
 
 ## 介紹
-Julia是一個新興的高階、高效動態語言，有逼近 C 的效能，兼有 Python 的優雅語法。以高效科學運算為原點，發展成一種通用語言 (general-purpose language)，得力於LLVM，加上語法本身優雅而精巧的設計，促成了高效的特性。Julia支援分散式運算 (distributed computing)、平行運算 (parallelism)、共時 (concurrency)等特性，讓使用者更易於擴充 (scale up)。Julia支援命令式、物件導向、函數式、泛型等等程式設計典範，讓這個語言更加豐富。
+Julia 是一個新興的高階、高效動態語言，有逼近 C 的效能，兼有 Python 的優雅語法。以高效科學運算為原點，發展成一種通用語言（general-purpose language），得力於 LLVM，加上語法本身優雅而精巧的設計，促成了高效的特性。Julia 支援分散式運算（distributed computing）、平行運算（parallelism）、共時（concurrency）等特性，讓使用者更易於擴充（scale up）。Julia支援命令式、物件導向、函數式、泛型等等程式設計典範，讓這個語言更加豐富。
 
 
 ## 活動投影片

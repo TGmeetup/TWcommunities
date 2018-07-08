@@ -16,6 +16,14 @@ We are a new local technology meetup group located at Hsinchu city, organized by
 - Facebook Group: https://www.facebook.com/groups/DigitalOceanHsinchu
 
 ## 活動投影片
+### Front-end and Back-end: Infinity Love
+###### `Pug`, `Sass`, `DigitalOcean`
+Date: 2018/07/02
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1008699495956336
+- Topic: How to generate the static webpage by yourself
+   - Speaker: David Lu [@yungshenglu](https://github.com/yungshenglu)
+   - Slides: https://bit.ly/2Nz704N
+
 ### Ansible with DigitalOcean
 ###### `container`, `Ansible`, `DigitalOcean`
 Date: 2018/05/14  

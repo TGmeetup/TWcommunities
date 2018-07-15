@@ -20,6 +20,8 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Facebook Group:
     - https://fb.cloudnative.tw
     - https://www.facebook.com/groups/sdnds.tw/
+- Telegram
+    - t.me/cntug
 
 ## 活動投影片
 ### Software Defined Network
@@ -125,6 +127,15 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 陳大慶(life1347)
     - Blog: https://tachingchen.com/tw/
     - Slides: http://bit.ly/2xm7JCu
+
+- Kubernetes 101 and 201 之一天最好可以講這麼多
+    - Speaker: 白凱仁(kairen)
+    - Slides: http://bit.ly/2un8wir
+
+- Kubernetes library 開發實戰 with client-go
+    - Speaker: 陳允禎(Alex)
+    - Blog: http://blog.yunchen.tw/
+    - Slides: https://bit.ly/2ujRPVl
 
 ### Openstack
 - Introduction and OpenStack Trends

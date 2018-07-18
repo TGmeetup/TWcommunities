@@ -19,15 +19,18 @@ We are a new local technology meetup group located at Hsinchu city, organized by
 ### Front-end and Back-end: Infinity Love
 ###### `Pug`, `Sass`, `DigitalOcean`
 Date: 2018/07/02  
-Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1008699495956336  
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1008699495956336
 - Topic: How to generate the static webpage by yourself
    - Speaker: David Lu [@yungshenglu](https://github.com/yungshenglu)
    - Slides: https://bit.ly/2Nz704N
+- Topic: 一鍵部署 Kubernetes HA & Self-hosted Cluster
+   - Speaker: Jacky Hung [@irake99](https://github.com/irake99)
+   - Slides: http://bit.ly/2O0zh4G
 
 ### Ansible with DigitalOcean
 ###### `container`, `Ansible`, `DigitalOcean`
 Date: 2018/05/14  
-Information: https://www.facebook.com/DigitalOceanHsinchu/posts/975877209238565  
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/975877209238565
 - Topic: Ansible with DigitalOcean
    - Speaker: Max Huang [@sakanamax](https://github.com/sakanamax)
    - Slides: https://bit.ly/2wGsgRI

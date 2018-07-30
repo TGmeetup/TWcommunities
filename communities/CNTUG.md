@@ -183,7 +183,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: Rico Lin(OpenStack Heat PTL)
         - Slides: http://bit.ly/2M23f6Q
     - Secure Container:Kata Container & gVisor
-        - Speaker: 顏靖軒(Mongo)
+        - Speaker: 顏靖軒(Mango)
         - Slides: http://bit.ly/2Aqbs3m
 
 ### Topic

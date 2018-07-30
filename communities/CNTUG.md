@@ -6,13 +6,13 @@
 - [介紹](#介紹)
 - [活動投影片](#活動投影片)
     - [Timeline](#timeline)
-        - [2017/12/24](#2017_12_24)
-        - [2018/02/10](#2018_02_10)
-        - [2018/03/17](#2018_03_17)
-        - [2018/04/28](#2018_04_28)
-        - [2018/05/26](#2018_05_26)
-        - [2018/07/14](#2018_07_14)
-        - [2018/07/30](#2018_07_30)
+        - [2017/12/24](#20171224)
+        - [2018/02/10](#20180210)
+        - [2018/03/17](#20180317)
+        - [2018/04/28](#20180428)
+        - [2018/05/26](#20180526)
+        - [2018/07/14](#20180714)
+        - [2018/07/30](#20180730)
     - [Topic](#topic)
         - [Software Defined Network](#software-defined-network)
         - [Software Defined Storage](#software-defined-storage)
@@ -37,7 +37,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 ### Timeline
 
 
-#### 2017_12_24
+#### 2017/12/24
 - SDN x Cloud Native Meetup #1
 - 國立臺灣大學社科院 102 教室/106大安區羅斯福路四段1號
 - Topics:
@@ -75,7 +75,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: Rico Lin(OpenStack Heat PTL)
         - Slides: https://goo.gl/SqLrCC
 
-#### 2018_02_10
+#### 2018/02/10
 - SDN x Cloud Native Meetup #2
 - 國立臺灣科技大學資訊管理系/台科大資管學院 3F, MA316
 - Topics:
@@ -98,7 +98,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
             - https://goo.gl/nspx7C
             - https://goo.gl/GKKo1H
 
-#### 2018_03_17
+#### 2018/03/17
 - SDN x Cloud Native Meetup #3
 - 輔大文開樓 LE 404A 教室 / 242新北市新莊區三泰路510號
 - Topics:
@@ -115,7 +115,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Blog: https://tachingchen.com/tw/
         - Slides: https://goo.gl/YpFFsj
 
-#### 2018_04_28
+#### 2018/04/28
 - SDN x Cloud Native Meetup #4
 - 資訊樓 2801 會議教室 / 國立臺中科技大學 資訊樓8樓
 - Topics:
@@ -142,7 +142,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Slides: https://goo.gl/CypFdB
 
 
-#### 2018_05_26
+#### 2018/05/26
 - SDN x Cloud Native Meetup #5
 - CLBC 大安本館 4F / 台北市復興南路一段293號4樓
 - Topics:
@@ -163,7 +163,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Blog: https://tachingchen.com/tw/
         - Slides: http://bit.ly/2xm7JCu
 
-#### 2018_07_14
+#### 2018/07/14
 - SDN x Cloud Native Meetup #6
 - 交通大學工程三館 EC330 教室 / 交通大學工程三館 EC330 教室
 - Topics:
@@ -175,7 +175,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Blog: http://blog.yunchen.tw/
         - Slides: https://bit.ly/2ujRPVl
 
-#### 2018_07_30
+#### 2018/07/30
 - SDN x Cloud Native Meetup #7
 - Dcard / 台北市大安區光復南路102號11樓
 - Topics:

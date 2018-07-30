@@ -307,6 +307,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 郭靖 (iGene)
     - Slides: https://goo.gl/CypFdB
 - Secure Container:Kata Container & gVisor
-    - Speaker: 顏靖軒(Mongo)
+    - Speaker: 顏靖軒(Mango)
     - Slides: http://bit.ly/2Aqbs3m
 

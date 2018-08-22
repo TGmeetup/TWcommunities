@@ -13,6 +13,7 @@
         - [2018/05/26](#20180526)
         - [2018/07/14](#20180714)
         - [2018/07/30](#20180730)
+        - [2018/08/11](#20180811)
     - [Topic](#topic)
         - [Software Defined Network](#software-defined-network)
         - [Software Defined Storage](#software-defined-storage)
@@ -186,6 +187,44 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: 顏靖軒(Mango)
         - Slides: http://bit.ly/2Aqbs3m
 
+#### 2018/08/11
+- COSCUP x GNOME.Asia x openSUSE.Asia 2018
+- 台北科技大學 / 106台北市大安區基隆路四段43號
+- Topics:
+    - 讓開源雲端與產品接軌: Take the Advantage and connect upstream to downstream
+        - Speaker: Rico Lin(OpenStack Heat PTL)
+        - Slides: https://www.slideshare.net/GuanYuLin1/take-the-advantage-and-connect-upstream-to-downstream
+    - 雲端技術及 SDN 如何改變行動網路帶動 5G 技術發展
+        - Speaker: 陳建豪(ONF Ambassador)
+        - Slides: https://www.slideshare.net/JianHaoChen1/cloud-native-driving-5g-coscup
+    - Locust to Go, Kubernetes to Load
+        - Speaker: 郭學聰 (Heush-Tsung Kuo)
+        - Slides: https://hackmd.io/p/r13TRUdrX#/
+    - 開放網路基金會實習經驗談
+        - Speaker: Takeshi
+        - Slides: https://www.slideshare.net/YiTseng/coscup-2018
+    - yoyodiy 如何繞過系統，自建一套 local k8s cluster
+        - Speaker: yoyo
+        - Slides: https://drive.google.com/open?id=1NCzFpSbKiZLoKh2k-ymQ5-wIWe0bS-3O
+    - 一鍵部署 Kubernetes HA + Self-hosted Cluster
+        - Speaker: 洪瓏軒
+        - Slides: http://bit.ly/2MFZbcP
+    - 用 Traefik 來簡化及統一網站流量管理 on K8s
+        - Speaker: 陳銘森 (Mat Chen)
+        - Slides: https://topmat.github.io/coscup2018traefik/index.html#/
+    - Raspberry PI x Kubernetes x TensorFlow
+        - Speaker: 蔡霈萱
+        - Slides: https://www.slideshare.net/ssuser8fb0cd/raspberry-pi-x-kubernetes-x-tensorflow
+    - OpenStack 搭上自建的 Kubernetes Operators 大船啟航
+        - Speaker: 李孟澤/林毅鑫
+        - Slides: https://drive.google.com/open?id=1SkkxM_wWtyD0b5VuHAZsFFMIeM55Fhs9
+    - Kubernetes 網路分析，搞懂所有網路功能以及 CNI 開發
+        - Speaker: 邱宏瑋(hwchiu)
+        - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
+    - Vikube - a kubernetes operation tool in Vim
+        - Speaker: 林佑安(C9S)
+        - Slides: 
+
 ### Topic
 #### Software Defined Network
 - An Introduction to Open Source Networking, Software Defined Network and Open Network Foundation
@@ -206,6 +245,10 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - P4 新手初探
     - Speaker: 傅珊蓉
     - Slides: http://bit.ly/p4cntug
+- 雲端技術及 SDN 如何改變行動網路帶動 5G 技術發展
+    - Speaker: 陳建豪(ONF Ambassador)
+    - Slides: https://www.slideshare.net/JianHaoChen0/cloud-native-driving-5g-coscup
+
 
 #### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system
@@ -276,6 +319,27 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 陳允禎(Alex)
     - Blog: http://blog.yunchen.tw/
     - Slides: https://bit.ly/2ujRPVl
+- Locust to Go, Kubernetes to Load
+    - Speaker: 郭學聰 (Heush-Tsung Kuo)
+    - Slides: https://hackmd.io/p/r13TRUdrX#/
+- yoyodiy 如何繞過系統，自建一套 local k8s cluster
+    - Speaker: yoyo
+    - Slides: https://drive.google.com/open?id=1NCzFpSbKiZLoKh2k-ymQ5-wIWe0bS-3O
+- 一鍵部署 Kubernetes HA + Self-hosted Cluster
+    - Speaker: 洪瓏軒
+    - Slides: http://bit.ly/2MFZbcP
+- 用 Traefik 來簡化及統一網站流量管理 on K8s
+    - Speaker: 陳銘森 (Mat Chen)
+    - Slides: https://topmat.github.io/coscup2018traefik/index.html#/
+- Raspberry PI x Kubernetes x TensorFlow
+    - Speaker: 蔡霈萱
+    - Slides: https://www.slideshare.net/ssuser8fb0cd/raspberry-pi-x-kubernetes-x-tensorflow
+- Kubernetes 網路分析，搞懂所有網路功能以及 CNI 開發
+    - Speaker: 邱宏瑋(hwchiu)
+    - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
+- Vikube - a kubernetes operation tool in Vim
+    - Speaker: 林佑安(C9S)
+    - Slides: 
 
 #### Openstack
 - Introduction and OpenStack Trends
@@ -298,6 +362,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - 熱研究 晴時多雲與颱風的關係
     - Speaker: Rico Lin(OpenStack Heat PTL)
     - Slides: http://bit.ly/2M23f6Q
+- OpenStack 搭上自建的 Kubernetes Operators 大船啟航
+    - Speaker: 李孟澤/林毅鑫
+    - Slides: https://drive.google.com/open?id=1SkkxM_wWtyD0b5VuHAZsFFMIeM55Fhs9
 
 #### Misc
 - High Performance Networking
@@ -309,4 +376,10 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Secure Container:Kata Container & gVisor
     - Speaker: 顏靖軒(Mango)
     - Slides: http://bit.ly/2Aqbs3m
+- 讓開源雲端與產品接軌: Take the Advantage and connect upstream to downstream
+    - Speaker: Rico Lin(OpenStack Heat PTL)
+    - Slides: https://www.slideshare.net/GuanYuLin1/take-the-advantage-and-connect-upstream-to-downstream
+- 開放網路基金會實習經驗談
+    - Speaker: Takeshi
+    - Slides: https://www.slideshare.net/YiTseng/coscup-2018
 

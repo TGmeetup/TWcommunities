@@ -32,6 +32,8 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - https://www.facebook.com/groups/sdnds.tw/
 - Telegram
     - t.me/cntug
+- KKTIX
+    - https://cntug.kktix.cc
 
 ## 活動投影片
 

@@ -19,7 +19,7 @@
 - 共筆: https://hackmd.io/c/HkvE-0zwZ
 
 ### 2016
-- Inforation: https://coscup.org/2016/
+- Information: https://coscup.org/2016/
 - Date: 2016/8/20(六) - 2016/8/21(日)
 - Location: 中央研究院 活動中心及人文社會科學館
 - YouTube: https://www.youtube.com/watch?v=cSlc3_fiklk&list=PLqfib4St70XNS5OmlOC9Mx871JnPibsRA

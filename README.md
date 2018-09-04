@@ -9,6 +9,7 @@
    - [GCPUG.TW](#gcpug.tw)
    - [Golang Taiwan](#golang-taiwan)
    - [Julia Taiwan](#julia-taiwan)
+   - [Rust TW](#rust-tw)
    - [Scala Taiwan](#scala-taiwan)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
@@ -52,6 +53,11 @@
 - [Slides](communities/JuliaTaiwan.md)
 - Location: 台灣(Taiwan)
 - Keywords: `julialang`, `HPC`, `Scientific computing`, `Numerical computing`
+
+### Rust TW
+- [Rust TW Meetup](https://github.com/rust-tw/meetup-2018)
+- Location: 台灣(Taiwan)
+- Keywords: `Rust`
 
 ### Scala Taiwan
 - [Scala Taiwan meetup slides](https://github.com/ScalaTaiwan/ScalaTaiwan)

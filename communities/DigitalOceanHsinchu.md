@@ -35,7 +35,7 @@ Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1008699495956336
 ### Ansible with DigitalOcean
 ###### `container`, `Ansible`, `DigitalOcean`
 Date: 2018/05/14  
-Information: https://www.facebook.com/DigitalOceanHsinchu/posts/975877209238565
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/975877209238565  
 - Topic: Ansible with DigitalOcean
    - Speaker: Max Huang [@sakanamax](https://github.com/sakanamax)
    - Slides: https://bit.ly/2wGsgRI

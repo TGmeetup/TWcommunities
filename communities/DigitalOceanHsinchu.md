@@ -16,6 +16,14 @@ We are a new local technology meetup group located at Hsinchu city, organized by
 - Facebook Group: https://www.facebook.com/groups/DigitalOceanHsinchu
 
 ## 活動投影片
+### Learning P4 from Examples
+###### `P4`, `SDN`, `DigitalOcean`
+Date: 2018/09/12
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1086134334879518
+- Topic: How to generate the static webpage by yourself
+   - Speaker: Kevin Cyu [@kevinbird61](https://github.com/kevinbird61)
+   - Slides: https://bit.ly/2COdnzT
+
 ### Front-end and Back-end: Infinity Love
 ###### `Pug`, `Sass`, `DigitalOcean`
 Date: 2018/07/02

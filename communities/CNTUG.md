@@ -243,7 +243,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Slides: TBA
     - CORDVTN: Service networking inside CORD architecture
         - Speaker: 陳威佑
-        - Slides:
+        - Slides: https://www.slideshare.net/aweimeow/cntug-8-cord-virtual-tenant-networkcordvtn-introduction
     - iptables 1001
         - Speaker: 邱宏瑋(hwchiu)
         - Slides: https://www.slideshare.net/hongweiqiu/iptables-101-bottomup
@@ -275,7 +275,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - 雲端技術及 SDN 如何改變行動網路帶動 5G 技術發展
     - Speaker: 陳建豪(ONF Ambassador)
     - Slides: https://www.slideshare.net/JianHaoChen0/cloud-native-driving-5g-coscup
-
+- CORDVTN: Service networking inside CORD architecture
+    - Speaker: 陳威佑
+    - Slides: https://www.slideshare.net/aweimeow/cntug-8-cord-virtual-tenant-networkcordvtn-introduction
 
 #### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system

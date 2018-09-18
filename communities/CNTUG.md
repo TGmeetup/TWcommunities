@@ -14,6 +14,7 @@
         - [2018/07/14](#20180714)
         - [2018/07/30](#20180730)
         - [2018/08/11](#20180811)
+        - [2018/09/10](#20180908)
     - [Topic](#topic)
         - [Software Defined Network](#software-defined-network)
         - [Software Defined Storage](#software-defined-storage)
@@ -225,7 +226,31 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
     - Vikube - a kubernetes operation tool in Vim
         - Speaker: 林佑安(C9S)
-        - Slides: 
+        - Slides: TBA
+
+#### 2018/09/08
+- SDN x Cloud Native Meetup #8
+- 台灣文創訓練中心 台北松江館 / 台北市中山區松江路131號7F-1
+- Topics:
+    - 商業與開源: 以電信場業為例，與開源組織互動的過程與經驗分享
+        - Speaker: Ulyssess Lu (QCT)
+        - Slides: TBA
+    - Introduction Facebook Telecom Infrastrcture Project
+        - Speaker: Samantha (Facebook)
+        - Slides: TBA
+    - ONAP Deploment 經驗分享
+        - Speaker: Dr. Hsuan(QCT)
+        - Slides: TBA
+    - CORDVTN: Service networking inside CORD architecture
+        - Speaker: 陳威佑
+        - Slides:
+    - iptables 1001
+        - Speaker: 邱宏瑋(hwchiu)
+        - Slides: https://www.slideshare.net/hongweiqiu/iptables-101-bottomup
+    - kubernetes Multus CNI 使用與經驗分享
+        - Speaker: 李孟澤
+        - Slides: http://bit.ly/2Ou1jFs
+
 
 ### Topic
 #### Software Defined Network
@@ -341,7 +366,10 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
 - Vikube - a kubernetes operation tool in Vim
     - Speaker: 林佑安(C9S)
-    - Slides: 
+    - Slides: TBA
+- kubernetes Multus CNI 使用與經驗分享
+    - Speaker: 李孟澤
+    - Slides: http://bit.ly/2Ou1jFs
 
 #### Openstack
 - Introduction and OpenStack Trends
@@ -384,4 +412,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - 開放網路基金會實習經驗談
     - Speaker: Takeshi
     - Slides: https://www.slideshare.net/YiTseng/coscup-2018
-
+- iptables 1001
+    - Speaker: 邱宏瑋(hwchiu)
+    - Slides: https://www.slideshare.net/hongweiqiu/iptables-101-bottomup

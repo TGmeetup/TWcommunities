@@ -14,7 +14,7 @@
         - [2018/07/14](#20180714)
         - [2018/07/30](#20180730)
         - [2018/08/11](#20180811)
-        - [2018/09/10](#20180908)
+        - [2018/09/08](#20180908)
     - [Topic](#topic)
         - [Software Defined Network](#software-defined-network)
         - [Software Defined Storage](#software-defined-storage)
@@ -226,7 +226,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
     - Vikube - a kubernetes operation tool in Vim
         - Speaker: 林佑安(C9S)
-        - Slides: TBA
+        - Slides: https://speakerdeck.com/c9s/vikube-operate-kubernetes-in-vim
 
 #### 2018/09/08
 - SDN x Cloud Native Meetup #8
@@ -368,7 +368,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://www.slideshare.net/hongweiqiu/overview-of-kubernetes-network-functions
 - Vikube - a kubernetes operation tool in Vim
     - Speaker: 林佑安(C9S)
-    - Slides: TBA
+    - Slides: https://speakerdeck.com/c9s/vikube-operate-kubernetes-in-vim
 - kubernetes Multus CNI 使用與經驗分享
     - Speaker: 李孟澤
     - Slides: http://bit.ly/2Ou1jFs

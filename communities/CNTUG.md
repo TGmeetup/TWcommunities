@@ -242,7 +242,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: Dr. Hsuan(QCT)
         - Slides: TBA
     - CORDVTN: Service networking inside CORD architecture
-        - Speaker: 陳威佑
+        - Speaker: 陳威祐
         - Slides: https://www.slideshare.net/aweimeow/cntug-8-cord-virtual-tenant-networkcordvtn-introduction
     - iptables 1001
         - Speaker: 邱宏瑋(hwchiu)

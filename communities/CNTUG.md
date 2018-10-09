@@ -15,6 +15,7 @@
         - [2018/07/30](#20180730)
         - [2018/08/11](#20180811)
         - [2018/09/08](#20180908)
+        - [2018/10/08](#20181008)
     - [Topic](#topic)
         - [Software Defined Network](#software-defined-network)
         - [Software Defined Storage](#software-defined-storage)
@@ -251,6 +252,13 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: 李孟澤
         - Slides: http://bit.ly/2Ou1jFs
 
+#### 2018/10/08
+- SDN x Cloud Native Meetup #9
+- 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
+- Topics:
+    - LT: Container Platform Information Update
+        - Speaker: 黃秉鈞
+        - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
 
 ### Topic
 #### Software Defined Network
@@ -372,6 +380,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - kubernetes Multus CNI 使用與經驗分享
     - Speaker: 李孟澤
     - Slides: http://bit.ly/2Ou1jFs
+- LT: Container Platform Information Update
+    - Speaker: 黃秉鈞
+    - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
 
 #### Openstack
 - Introduction and OpenStack Trends

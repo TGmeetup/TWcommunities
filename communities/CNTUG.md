@@ -256,6 +256,12 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - SDN x Cloud Native Meetup #9
 - 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
 - Topics:
+    - Kubernetes Container Runtime Interface
+        - Speaker: 張哲嘉
+        - Slides: TBA
+    - Automatically Renew Certificated In Your Kubernetes Cluster
+        - Speaker: 邱宏瑋(hwchiu)
+        - Slides: https://bit.ly/2OlaPyz
     - LT: Container Platform Information Update
         - Speaker: 黃秉鈞
         - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
@@ -383,6 +389,12 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - LT: Container Platform Information Update
     - Speaker: 黃秉鈞
     - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
+- Kubernetes Container Runtime Interface
+    - Speaker: 張哲嘉
+    - Slides: TBA
+- Automatically Renew Certificated In Your Kubernetes Cluster
+    - Speaker: 邱宏瑋(hwchiu)
+    - Slides: https://bit.ly/2OlaPyz
 
 #### Openstack
 - Introduction and OpenStack Trends

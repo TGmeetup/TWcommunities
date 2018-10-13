@@ -3,25 +3,28 @@
 ###### `cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`
 
 ## Table of Contents
-- [介紹](#介紹)
-- [活動投影片](#活動投影片)
-    - [Timeline](#timeline)
-        - [2017/12/24](#20171224)
-        - [2018/02/10](#20180210)
-        - [2018/03/17](#20180317)
-        - [2018/04/28](#20180428)
-        - [2018/05/26](#20180526)
-        - [2018/07/14](#20180714)
-        - [2018/07/30](#20180730)
-        - [2018/08/11](#20180811)
-        - [2018/09/08](#20180908)
-        - [2018/10/08](#20181008)
-    - [Topic](#topic)
-        - [Software Defined Network](#software-defined-network)
-        - [Software Defined Storage](#software-defined-storage)
-        - [Cloud Native](#cloud-native)
-        - [Openstack](#openstack)
-        - [Misc](#misc)
+- [Cloud Native Taiwan User Group](#cloud-native-taiwan-user-group)
+                    - [`cloud native`, `DevOps`, `open source`,`SDN`,`OpenStack`,`SDS`](#cloud-native-devops-open-sourcesdnopenstacksds)
+    - [Table of Contents](#table-of-contents)
+    - [介紹](#介紹)
+    - [活動投影片](#活動投影片)
+        - [Timeline](#timeline)
+            - [2017/12/24](#20171224)
+            - [2018/02/10](#20180210)
+            - [2018/03/17](#20180317)
+            - [2018/04/28](#20180428)
+            - [2018/05/26](#20180526)
+            - [2018/07/14](#20180714)
+            - [2018/07/30](#20180730)
+            - [2018/08/11](#20180811)
+            - [2018/09/08](#20180908)
+            - [2018/10/08](#20181008)
+        - [Topic](#topic)
+            - [Software Defined Network](#software-defined-network)
+            - [Software Defined Storage](#software-defined-storage)
+            - [Cloud Native](#cloud-native)
+            - [Openstack](#openstack)
+            - [Misc](#misc)
 
 ## 介紹
 Cloud Native Taiwan User Group 希望整合台灣雲端相關社群如 OpenStack, Kubernetes, Ceph, SDN 等，並利用 Meetup 定期在各台灣地區舉辦技術與推廣分享活動。目的是藉此群策群力來使該社團快速成長，以對台灣在雲端開源平台的貢獻，另外我們更希望該社群持有 Cloud Native 概念，並將此推廣至台灣企業、學校、政府單位等。
@@ -258,7 +261,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Topics:
     - Kubernetes Container Runtime Interface
         - Speaker: 張哲嘉
-        - Slides: TBA
+        - Slides: https://www.slideshare.net/CheChiaChang/presentation-119161609
     - Automatically Renew Certificated In Your Kubernetes Cluster
         - Speaker: 邱宏瑋(hwchiu)
         - Slides: https://bit.ly/2OlaPyz
@@ -391,7 +394,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
 - Kubernetes Container Runtime Interface
     - Speaker: 張哲嘉
-    - Slides: TBA
+    - Slides: https://www.slideshare.net/CheChiaChang/presentation-119161609
 - Automatically Renew Certificated In Your Kubernetes Cluster
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://bit.ly/2OlaPyz

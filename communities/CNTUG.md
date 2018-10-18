@@ -23,7 +23,7 @@
             - [Software Defined Network](#software-defined-network)
             - [Software Defined Storage](#software-defined-storage)
             - [Cloud Native](#cloud-native)
-            - [Openstack](#openstack)
+            - [OpenStack](#openstack)
             - [Misc](#misc)
 
 ## 介紹
@@ -402,7 +402,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://bit.ly/2OlaPyz
 
-#### Openstack
+#### OpenStack
 - Introduction and OpenStack Trends
     - Speaker: 曾柏凱 & 郭靖 (iGene)
     - Slides: https://goo.gl/qC3tmq

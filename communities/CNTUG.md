@@ -242,9 +242,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Introduction Facebook Telecom Infrastrcture Project
         - Speaker: Samantha (Facebook)
         - Slides: TBA
-    - ONAP Deploment 經驗分享
-        - Speaker: Dr. Hsuan(QCT)
-        - Slides: TBA
+    - Talk ONAP to Me x Hands On
+        - Speaker: Kate Hsuan(QCT)
+        - Slides: https://goo.gl/Y4S6ho
     - CORDVTN: Service networking inside CORD architecture
         - Speaker: 陳威祐
         - Slides: https://www.slideshare.net/aweimeow/cntug-8-cord-virtual-tenant-networkcordvtn-introduction
@@ -295,6 +295,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - CORDVTN: Service networking inside CORD architecture
     - Speaker: 陳威佑
     - Slides: https://www.slideshare.net/aweimeow/cntug-8-cord-virtual-tenant-networkcordvtn-introduction
+- Talk ONAP to Me x Hands On
+    - Speaker: Kate Hsuan(QCT)
+    - Slides: https://goo.gl/Y4S6ho
 
 #### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system

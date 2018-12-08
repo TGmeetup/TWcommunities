@@ -19,6 +19,8 @@
             - [2018/08/11](#20180811)
             - [2018/09/08](#20180908)
             - [2018/10/08](#20181008)
+            - [2018/11/29](#20181129)
+            - [2018/12/08](#20181208)
         - [Topic](#topic)
             - [Software Defined Network](#software-defined-network)
             - [Software Defined Storage](#software-defined-storage)
@@ -269,6 +271,37 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
         - Speaker: 黃秉鈞
         - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
 
+#### 2018/11/29
+- SDN x Cloud Native Meetup #11
+- Cymking Space / 台北市南港區南港路三段 52 號 7 樓
+- Topics:
+    - Tungsten Fabric - Towards the next Generation
+        - Speaker: Edward Ting
+        - Slides: https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributior
+
+#### 2018/12/08
+- SDN x Cloud Native Meetup #12
+- CLBC 大安館 / 106-65 台北市大安區復興南路一段 293 號 4 樓
+- Topics:
+    - MEC/NFV 所見所聞
+        - Speaker: 黃秉鈞
+        - Slides: https://speakerdeck.com/pichuang/nfv-20181208
+    - P4 Intro & Demostration
+        - Speaker: Kevin Cyu (瞿旭民)
+        - Slides: https://bit.ly/p4_20181208
+    - GitHub Load Balancer Introduction
+        - Speaker: 何禮亦
+        - Slides: https://drive.google.com/file/d/1G13yVnxDlsM9nWhLyr-qkht3WWArDHHR/view?fbclid=IwAR3sjW_XM-ehdvZrIkXUck00A8PBsavTPSvt2fwSlc0Si6HrruBjABxcId4
+    - Fission - Sererless Framework For Kubernetes
+        - Speaker: 陳大慶
+        - Slides: https://tachingchen.com/tw/blog/fission-serverless-framework-for-kubernetes-gcpug-41
+    - Prometheus Day 2
+        - Speaker: Smalltown
+        - Slides: https://www.slideshare.net/smalltown20110306/cloud-native-tw-ug-prometheus-day-2
+    - How to impletement Kubernetes Bare metal Load Balancer
+        - Speaker: 白凱仁(kairen)
+        - Slides: https://speakerdeck.com/kairen/how-to-impletement-kubernetes-bare-metal-load-balancer
+
 ### Topic
 #### Software Defined Network
 - An Introduction to Open Source Networking, Software Defined Network and Open Network Foundation
@@ -298,6 +331,15 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Talk ONAP to Me x Hands On
     - Speaker: Kate Hsuan(QCT)
     - Slides: https://goo.gl/Y4S6ho
+- Tungsten Fabric - Towards the next Generation
+    - Speaker: Edward Ting
+    - Slide: https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributior
+- MEC/NFV 所見所聞
+    - Speaker: 黃秉鈞
+    - Slides: https://speakerdeck.com/pichuang/nfv-20181208
+- P4 Intro & Demostration
+    - Speaker: Kevin Cyu (瞿旭民)
+    - Slides: https://bit.ly/p4_20181208
 
 #### Software Defined Storage
 - A practical guide to learning, designing, and implementing your Ceph storage system
@@ -401,6 +443,16 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Automatically Renew Certificated In Your Kubernetes Cluster
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://bit.ly/2OlaPyz
+- Prometheus Day 2
+    - Speaker: Smalltown
+    - Slide: https://www.slideshare.net/smalltown20110306/cloud-native-tw-ug-prometheus-day-2
+- Fission - Sererless Framework For Kubernetes
+    - Speaker: 陳大慶
+    - Slide: https://tachingchen.com/tw/blog/fission-serverless-framework-for-kubernetes-gcpug-41
+- How to impletement Kubernetes Bare metal Load Balancer
+    - Speaker: 白凱仁(kairen)
+    - Slides: https://speakerdeck.com/kairen/how-to-impletement-kubernetes-bare-metal-load-balancer
+
 
 #### OpenStack
 - Introduction and OpenStack Trends
@@ -446,3 +498,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - iptables 1001
     - Speaker: 邱宏瑋(hwchiu)
     - Slides: https://www.slideshare.net/hongweiqiu/iptables-101-bottomup
+- GitHub Load Balancer Introduction
+    - Speaker: 何禮亦
+    - Slides: https://drive.google.com/file/d/1G13yVnxDlsM9nWhLyr-qkht3WWArDHHR/view?fbclid=IwAR3sjW_XM-ehdvZrIkXUck00A8PBsavTPSvt2fwSlc0Si6HrruBjABxcId4

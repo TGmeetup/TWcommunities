@@ -275,7 +275,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - SDN x Cloud Native Meetup #11
 - Cymking Space / 台北市南港區南港路三段 52 號 7 樓
 - Topics:
-    - Tungsten Fabric - Towards the next Generation
+    - Tungsten Fabric: Getting Started as an Upstream Contributior
         - Speaker: Edward Ting
         - Slides: https://speakerdeck.com/pichuang/getting-started-as-an-upstream-contributior
 

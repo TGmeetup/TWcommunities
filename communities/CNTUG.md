@@ -19,6 +19,7 @@
             - [2018/08/11](#20180811)
             - [2018/09/08](#20180908)
             - [2018/10/08](#20181008)
+            - [2018/11/22](#20181122)
             - [2018/11/29](#20181129)
             - [2018/12/08](#20181208)
         - [Topic](#topic)
@@ -270,6 +271,17 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - LT: Container Platform Information Update
         - Speaker: 黃秉鈞
         - Slides: https://speakerdeck.com/pichuang/lt-container-platform-information-update
+
+#### 2018/11/22
+- SDN x Cloud Native Meetup #10
+- 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
+- Topics:
+    - Towards the Next Generation SDN
+        - Speaker: Charlet Chan
+        - Slides: https://drive.google.com/open?id=1iiSDf_581TVfi0hZXANa-k1gPIg4DNJfsoyEdX3s3bA
+    - Introduction to Application-Based Routing
+        - Speaker: 邱宏瑋(hwchiu)
+        - Slides: https://www.slideshare.net/hongweiqiu/applicationbased-routing
 
 #### 2018/11/29
 - SDN x Cloud Native Meetup #11

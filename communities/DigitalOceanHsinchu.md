@@ -9,13 +9,27 @@
 ## 介紹
 DigitalOcean Hsinchu 是由一群經常交流自由與開放原始碼專案、雲端運算、網路技術、專案開發、DevOps、伺服器維運等相關主題的朋友以及 DigitalOcean 共同成立的技術交流社團。
 我們預計每一到兩個月會舉辦一次技術分享或是讀書會，歡迎大家一起挑選我們每次的主題並參與分享！ 有興趣和我們一起協辦活動嗎？歡迎跟我們聯絡！如果你正在開發或維護有趣、好玩的專案，也都歡迎帶來介紹給大家！  
-  
+
 We are a new local technology meetup group located at Hsinchu city, organized by tech lovers and DigitalOcean! We are interested in various open source, Liunx, cloud computing, DevOps, web development and network related topics, would like to study, share the knowledge with you together, welcome to join us, share your experience and suggestion, organize the future meetup and topic with us!  
-  
+
 - Meetup: https://www.meetup.com/DigitalOceanHsinchu/
 - Facebook Group: https://www.facebook.com/groups/DigitalOceanHsinchu
 
 ## 活動投影片
+### 擁抱網路, Kubernetes-based Project 與 Podman x 感恩回饋 open source 季
+###### `Kubernetes`, `Podman`, `DigitalOcean`
+Date: 2018/12/23  
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1153274168165534
+- Topic: 24 Pull Requests in 2018
+   - Speaker: Brian Hsieh [@qwe19272375](https://github.com/qwe19272375)
+   - Slides: http://bit.ly/2Aluci0
+- Topic: Introduction to Podman
+   - Speaker: Gene Kuo [@iGene](https://github.com/iGene)
+   - Slides: http://bit.ly/2LAePqw
+- Topic: Introduction to Kubernetes-based Service, Framework and Project
+   - Speaker: Kai-Ren Bai [@kairen](https://github.com/kairen)
+   - Slides: 
+
 ### Learning P4 from Examples
 ###### `P4`, `SDN`, `DigitalOcean`
 Date: 2018/09/12  

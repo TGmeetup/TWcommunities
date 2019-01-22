@@ -313,6 +313,17 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - How to impletement Kubernetes Bare metal Load Balancer
         - Speaker: 白凱仁(kairen)
         - Slides: https://speakerdeck.com/kairen/how-to-impletement-kubernetes-bare-metal-load-balancer
+        
+#### 2019/01/22
+- SDN x Cloud Native Meetup #13
+- 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
+- Topics:
+    - 那些年的 OpenShift 3.11 容器技術選型
+        - Speaker: 黃秉鈞 Phil Huang
+        - Slides: 
+    - ELK for applications on Kubernetes
+        - Speaker: 張哲嘉 David Chang
+        - Slides: https://www.slideshare.net/CheChiaChang/elk-for-applications-on-k8s
 
 ### Topic
 #### Software Defined Network
@@ -464,7 +475,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - How to impletement Kubernetes Bare metal Load Balancer
     - Speaker: 白凱仁(kairen)
     - Slides: https://speakerdeck.com/kairen/how-to-impletement-kubernetes-bare-metal-load-balancer
-
+- ELK for applications on Kubernetes
+    - Speaker: 張哲嘉 David Chang
+    - Slides: https://www.slideshare.net/CheChiaChang/elk-for-applications-on-k8s
 
 #### OpenStack
 - Introduction and OpenStack Trends

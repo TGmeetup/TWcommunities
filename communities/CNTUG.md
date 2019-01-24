@@ -22,6 +22,7 @@
             - [2018/11/22](#20181122)
             - [2018/11/29](#20181129)
             - [2018/12/08](#20181208)
+            - [2019/01/22](#20190122)
         - [Topic](#topic)
             - [Software Defined Network](#software-defined-network)
             - [Software Defined Storage](#software-defined-storage)

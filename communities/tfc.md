@@ -22,6 +22,36 @@
 - FreeNAS 企業應用經驗分享
 - 木衛二世界茶館 (台中市北區錦新街48號)
 - Topics:
-    - 享在企業應用 FreeNAS 做為核心儲存的心路歷程，以及導入過程中評估重點及應用經驗，整合應用部份涵蓋了 PVE (Proxmox VE)、NextCloud。
+    - 分享在企業應用 FreeNAS 做為核心儲存的心路歷程，以及導入過程中評估重點及應用經驗，整合應用部份涵蓋了 PVE (Proxmox VE)、NextCloud。
         - Speaker: 鄭郁霖 (Jason Cheng)
         - Slides: https://www.slideshare.net/jasoncheng7115/freenas-20161217
+  
+  
+#### 2017/05/21
+- Duplicati 應用經驗分享會
+- HexBase (台中市北區錦新街42號2F)
+- Topics:
+    - 分享 Duplicati 軟體應用內容，主要介紹採用 Duplicati 的背景，以及軟體功能、特性及應用場合。
+        - Speaker: 鄭郁霖 (Jason Cheng)
+        - Slides: https://www.slideshare.net/jasoncheng7115/duplicati-20170521-hexbase
+        - Event: https://tfc.kktix.cc/events/dup-use-share
+  
+  
+#### 2017/06/25
+- 讓軟體開發與應用更自由：使用 Docker 容器技術
+- HexBase (台中市北區錦新街42號2F)
+- Topics:
+    - 以 PHP 開發者的開發環境演變，分享由傳統到容器應用的持續改善。
+        - Speaker: 邵玉龍 (Allen Shao)
+        - Slides: https://www.slideshare.net/bestlong/docker-77250648
+        - Event: https://tfc.kktix.cc/events/docker-be-freefom
+  
+  
+#### 2017/07/29
+- Proxmox VE 企業應用經驗分享
+- 資策會數位教育研究所資訊技術台中訓練中心 (台中市公益路二段51號20樓)
+- Topics:
+    - 分享實際於企業應用 Proxmox VE 伺服器虛擬化平台之歷程，從評估、方案、使用、應用技巧以及週邊搭配。
+        - Speaker: 鄭郁霖 (Jason Cheng)
+        - Slides: https://www.slideshare.net/jasoncheng7115/proxmox-ve-20170729
+        - Event: https://tfc.kktix.cc/events/pve-use-share

@@ -11,6 +11,7 @@
    - [Julia Taiwan](#julia-taiwan)
    - [Rust TW](#rust-tw)
    - [Scala Taiwan](#scala-taiwan)
+   - [TFC](#tfc)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
    - [MOPCON](#mopcon)
@@ -63,6 +64,15 @@
 - [Scala Taiwan meetup slides](https://github.com/ScalaTaiwan/ScalaTaiwan)
 - Location: 台灣(Taiwan)
 - Keywords: `Scala`
+
+### TFC
+- [TFC FB社團](https://www.facebook.com/groups/tfc.tw/)
+- [Events & slides](communities/tfc.md)
+- Location: 台中(Taichung)/台灣(Taiwan)
+- Keywords: `TFC`,`Free Software`, `Open Source Software`, `Taichung`
+
+  
+    
 
 ## Conferences
 ### COSCUP

@@ -64,7 +64,7 @@
     - 如何從無到有快速開發具有 CRUD 的最潮 PHP Laravel 站台。
         - Speaker: 黃文志 (Yehlu Huang)
         - Slides: https://www.slideshare.net/yehlu/laravel-admin20170819
-        - Event: https://tfc.kktix.cc/events/php-laravel-crud?fbclid=IwAR0gZ0OcOawD4Vk8zMxr7-WgzzpsQSu8E5ff1FI4oDixzfQVcduMNzEd_tc
+        - Event: https://tfc.kktix.cc/events/php-laravel-crud
   
   
 #### 2017/09/23

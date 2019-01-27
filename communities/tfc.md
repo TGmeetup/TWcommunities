@@ -77,6 +77,7 @@
         - Slides: https://speakerdeck.com/pichuang/the-trends-of-open-networking
     - 深入淺出 OpenvSwitch
         - Speaker: 邱宏瑋 (HWChiu)
+        - Slides: https://speakerdeck.com/hwchiu/introduction-to-openvswitch
 
 
 

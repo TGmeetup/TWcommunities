@@ -55,3 +55,26 @@
         - Speaker: 鄭郁霖 (Jason Cheng)
         - Slides: https://www.slideshare.net/jasoncheng7115/proxmox-ve-20170729
         - Event: https://tfc.kktix.cc/events/pve-use-share
+  
+  
+#### 2017/08/19
+- 用最潮的PHP框架，做簡單的CRUD的資料庫管理
+- HexBase (台中市北區錦新街42號2F)
+- Topics:
+    - 如何從無到有快速開發具有 CRUD 的最潮 PHP Laravel 站台。
+        - Speaker: 黃文志 (Yehlu Huang)
+        - Slides: https://www.slideshare.net/yehlu/laravel-admin20170819
+        - Event: https://tfc.kktix.cc/events/php-laravel-crud?fbclid=IwAR0gZ0OcOawD4Vk8zMxr7-WgzzpsQSu8E5ff1FI4oDixzfQVcduMNzEd_tc
+  
+  
+#### 2017/09/23
+- SDN x OpenvSwitch x Open Networking
+- 國立臺中科技大學 資訊樓 2801 教室 (台中市北區三民路三段129號)
+- Topics:
+    - 資料中心 SDN 及 Open Networking 技術發展及商業應用
+        - Speaker: 黃秉均 (Phil Huang)
+    - 深入淺出 OpenvSwitch
+        - Speaker: 邱宏瑋 (HWChiu)
+        - Event: https://tfc.kktix.cc/events/sdn-share
+
+

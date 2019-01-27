@@ -74,6 +74,7 @@
 - Topics:
     - 資料中心 SDN 及 Open Networking 技術發展及商業應用
         - Speaker: 黃秉均 (Phil Huang)
+        - Slides: https://speakerdeck.com/pichuang/the-trends-of-open-networking
     - 深入淺出 OpenvSwitch
         - Speaker: 邱宏瑋 (HWChiu)
 

@@ -53,8 +53,8 @@
 - Event: https://tfc.kktix.cc/events/pve-use-share
 - Topics:
     - 分享實際於企業應用 Proxmox VE 伺服器虛擬化平台之歷程，從評估、方案、使用、應用技巧以及週邊搭配。
-        - Speaker: 鄭郁霖 (Jason Cheng)
-        - Slides: https://www.slideshare.net/jasoncheng7115/proxmox-ve-20170729     
+       - Speaker: 鄭郁霖 (Jason Cheng)
+       - Slides: https://www.slideshare.net/jasoncheng7115/proxmox-ve-20170729     
   
   
 #### 2017/08/19
@@ -78,6 +78,34 @@
     - 深入淺出 OpenvSwitch
         - Speaker: 邱宏瑋 (HWChiu)
         - Slides: https://speakerdeck.com/hwchiu/introduction-to-openvswitch
+  
+  
+#### 2017/10/21
+- SDS x ZFS 技術研討會
+- HexBase (台中市北區錦新街42號2F)
+- Event: https://tfc.kktix.cc/events/sds-zfs-share
+- Topics:
+  - SDS (軟體定義儲存) 是儲存設備的未來趨勢，其中 ZFS 又堪稱是目前地表上最強檔案系統 (之一) 的翹楚，它將翻轉你所有儲存的問題與需求。
+    - Speaker: 王仁傑 (Jackson Wang)
+    - Slides: 尚未提供
 
+#### 2017/11/26
+- 智慧家庭：我的夢、我的愛、我的家
+- HexBase (台中市北區錦新街42號2F)
+- Event: https://tfc.kktix.cc/events/smart-home-share
+- Topics:
+  - 隨著科技進步與普及，智慧家庭已經深入人心，但是要如何以千元花費打造最潮的智慧家庭以完成夢想呢？
+    - Speaker: 張閔壽 (Joecool Chang)
+    - Slides: 尚未提供
+
+
+#### 2017/12/23
+- Kubernetes Workshop
+- HexBase (台中市北區錦新街42號2F)
+- Event: https://tfc.kktix.cc/events/k8s-workshop
+- Topics:
+  - 本次活動將為大家介紹 Kubernetes 基本概念，並實際進行 Workshop 來快速入門 Kubernetes。
+    - Speaker: 白凱仁 (Kyle Bai)
+    - Slides: https://drive.google.com/file/d/1FFYxZWME2U0b7xbQCaYJnVilgfeGvjFL/view
 
 

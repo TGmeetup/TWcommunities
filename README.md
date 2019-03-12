@@ -67,7 +67,7 @@
 
 ### TFC
 - [TFC FB社團](https://www.facebook.com/groups/tfc.tw/)
-- [Events & slides](communities/tfc.md)
+- [Events & slides](communities/TFC.md)
 - Location: 台中(Taichung)/台灣(Taiwan)
 - Keywords: `TFC`,`Free Software`, `Open Source Software`, `Taichung`
 

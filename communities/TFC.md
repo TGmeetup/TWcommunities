@@ -266,7 +266,7 @@
 - Topics:
   - 由於傳統機房環控採用商用軟體導致建置成本較高，且缺乏客製化的彈性，因此本團隊利用多種開源軟體與硬體進行整合開發建置了雲端機房環控開源系統。
     - Speaker: 陳弘明、李汶昇、鄭鍾翔
-    - Slides: 待確認
+    - Slides: https://www.slideshare.net/secret/3gnEbZJsU78IZV
   
   
 #### 2019/03/09

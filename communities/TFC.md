@@ -276,6 +276,6 @@
 - Topics:
   - Kubernetes 的蓬勃發展以及其人氣帶來廣泛地使用，然而到底什麼是 Kubernetes, 對於程式開發者，環境營運部署人員來說有什麼影響？
     - Speaker: 邱宏瑋 (hwchiu)
-    - Slides: 待確認
+    - Slides: https://www.slideshare.net/hongweiqiu/kubernetes-1001
     
   

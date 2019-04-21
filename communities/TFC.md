@@ -279,3 +279,14 @@
     - Slides: https://www.slideshare.net/hongweiqiu/kubernetes-1001
     
   
+ 
+#### 2019/04/13
+- 對不起駭到你
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/hacking-you-sorry
+- Topics:
+  - 在這場 Workshop 當中，將帶領各位進入駭客的世界，了解駭客到底平常都在做什麼。除了瞭解之外當然也又動手實作體驗一下當駭客的感覺，並且學習如何進行簡單的自我保護。
+    - Speaker: 許清雄 (Stan)
+    - Slides: 無
+    
+  

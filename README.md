@@ -6,7 +6,8 @@
    - [Ansible Taiwan](#ansible-taiwan)
    - [Cloud Native Taiwan User Group](#cloud-native-taiwan-user-group)
    - [DigitalOcean Hsinchu](#digitalocean-hsinchu)
-   - [GCPUG.TW](#gcpug.tw)
+   - [GCPUG Taipei](#gcpug-taipei)
+   - [GCPUG Kaohsiung](#gcpug-kaohsiung)
    - [Golang Taiwan](#golang-taiwan)
    - [Julia Taiwan](#julia-taiwan)
    - [Rust TW](#rust-tw)
@@ -37,10 +38,16 @@
 - Location: 新竹(Hsinchu)/台灣(Taiwan)
 - Keywords: `cloud`, `DevOps`, `open source`
 
-### GCPUG.TW
-- [官網](http://gcpug.tw/)
-- [GCPUG.TW meetup](https://www.youtube.com/playlist?list=PLBxDwki2j4mfiXxa8f-Y7yuyY1PFlpFDg)
-- Location: 台灣(Taiwan)
+### GCPUG Taipei
+- [官網](http://taipei.gcpug.tw)
+- [GCPUG Taipei 社團](https://www.facebook.com/groups/GCPUG.TW/)
+- [GCPUG Taipei meetup](https://www.youtube.com/playlist?list=PLBxDwki2j4mfiXxa8f-Y7yuyY1PFlpFDg)
+- Location: 台北(Taipei)
+- Keywords: `cloud`, `Google`
+
+### GCPUG Kaohsiung
+- [GCPUG Kaohsiung meetup](https://www.meetup.com/GCPUG-Kaohsiung/)
+- Location: 高雄(Kaohsiung)
 - Keywords: `cloud`, `Google`
 
 ### Golang Taiwan

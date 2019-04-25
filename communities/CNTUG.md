@@ -50,7 +50,7 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - Topics:
     - 那些年的 OpenShift 3.11 容器技術選型
         - Speaker: 黃秉鈞 Phil Huang
-        - Slides: 
+        - Slides: https://speakerdeck.com/pichuang/na-xie-nian-de-openshift-3-dot-11-rong-qi-ping-tai-ji-shu-xuan-xing-20190122
     - ELK for applications on Kubernetes
         - Speaker: 張哲嘉 David Chang
         - Slides: https://www.slideshare.net/CheChiaChang/elk-for-applications-on-k8s
@@ -473,6 +473,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - ELK for applications on Kubernetes
     - Speaker: 張哲嘉 David Chang
     - Slides: https://www.slideshare.net/CheChiaChang/elk-for-applications-on-k8s
+- 那些年的 OpenShift 3.11 容器技術選型
+    - Speaker: 黃秉鈞 Phil Huang
+    - Slides: https://speakerdeck.com/pichuang/na-xie-nian-de-openshift-3-dot-11-rong-qi-ping-tai-ji-shu-xuan-xing-20190122
 
 #### OpenStack
 - Introduction and OpenStack Trends

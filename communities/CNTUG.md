@@ -386,6 +386,9 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
     - Slides: https://goo.gl/4SMYch
 
 #### Cloud Native
+- Kubeflow 對於機器學習平台的願景
+    - Speaker: 林義洋 
+    - Slides: https://is.gd/WfGdUc
 - An Introduction to Kubernetes and the CNI
     - Speaker: 鄭偉聖
     - Slides: https://goo.gl/46TuLK

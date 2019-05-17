@@ -267,6 +267,7 @@
   - 由於傳統機房環控採用商用軟體導致建置成本較高，且缺乏客製化的彈性，因此本團隊利用多種開源軟體與硬體進行整合開發建置了雲端機房環控開源系統。
     - Speaker: 陳弘明、李汶昇、鄭鍾翔
     - Slides: https://www.slideshare.net/secret/3gnEbZJsU78IZV
+    - Code: https://github.com/TitanLi/smart-data-center
   
   
 #### 2019/03/09
@@ -290,3 +291,27 @@
     - Slides: 無
     
   
+ 
+#### 2019/04/23
+- OpenShift 容器平台技術概觀
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/redhat-openshift-summary
+- Topics:
+  - 容器化平台的架構介紹，分享平常自建任何容器平台時，應該要留意的幾個技術點。
+    - Speaker: 黃秉鈞 (Phil Huang)
+    - Slides: 待確認
+    
+  
+ 
+#### 2019/05/04
+- Musicha 的崛起：從工程師斜槓企業家
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/musicha-opensource-entrepreneurship
+- Topics:
+  - Linux 系統傳統充滿拼湊感、筆電硬體匹配不佳的使用體驗不再，取而代之的，是有整體感且激勵創作的使用體驗。
+    - Speaker: 張正一 (Shoichi Chou)
+    - Slides: 待確認
+        
+  
+  
+

@@ -12,8 +12,8 @@
    - [Julia Taiwan](#julia-taiwan)
    - [Rust TW](#rust-tw)
    - [Scala Taiwan](#scala-taiwan)
-   - [TFC](#tfc)
    - [Taichung.py](#taichung-py)
+   - [TFC](#tfc)
 - [Conferences](#conferences)
    - [COSCUP](#coscup)
    - [MOPCON](#mopcon)
@@ -73,17 +73,17 @@
 - Location: 台灣(Taiwan)
 - Keywords: `Scala`
 
-### TFC
-- [TFC FB社團](https://www.facebook.com/groups/tfc.tw/)
-- [Events & slides](communities/TFC.md)
-- Location: 台中(Taichung)/台灣(Taiwan)
-- Keywords: `TFC`,`Free Software`, `Open Source Software`, `Taichung`
-
 ### Taichung Py
 - [Taichung.py](https://www.facebook.com/groups/780250978715991/)
 - [Events & slides](communities/TaichungPy.md)
 - Location: 台中(Taichung)/台灣(Taiwan)
 - Keywords: `Python`, `Taichung`
+
+### TFC
+- [TFC FB社團](https://www.facebook.com/groups/tfc.tw/)
+- [Events & slides](communities/TFC.md)
+- Location: 台中(Taichung)/台灣(Taiwan)
+- Keywords: `TFC`,`Free Software`, `Open Source Software`, `Taichung`
 
 ## Conferences
 ### COSCUP

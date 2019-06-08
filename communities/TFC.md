@@ -311,7 +311,17 @@
   - Linux 系統傳統充滿拼湊感、筆電硬體匹配不佳的使用體驗不再，取而代之的，是有整體感且激勵創作的使用體驗。
     - Speaker: 張正一 (Shoichi Chou)
     - Slides: 待確認
-        
+    
+  
+ 
+#### 2019/06/08
+- 突破困境：資安開源工具之應用分享
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/nomoney-infosec
+- Topics:
+  - 資訊安全是現今企業必然要面臨的挑戰，在開源軟體的世界裡也有許多解決方案可以從旁協助，從虛擬化、備份、狀態監控、記錄分析、弱點掃描等等都可以找到相當不錯的套件，講者將從過去應用分享相關開源軟體經驗。
+    - Speaker: 鄭郁霖 (Jason Cheng)
+    - Slides: https://www.slideshare.net/jasoncheng7115/20190608-monospace
   
   
 

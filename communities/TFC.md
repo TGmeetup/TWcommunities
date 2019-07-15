@@ -333,5 +333,15 @@
   - 智慧聯網的時代來臨，許多應用都與資訊安全相關，資訊安全的議題早已跨越了國境的邊界，近來幾次大型網路攻擊事件，不論國內外都引起了許多人的憂心，不論是近來經常發生的勒索攻擊威脅，或是網站遭到資料的竊取，這些都已成為全球性的資安問題，如何因應新興的資安問題所帶來的資安風險，成為我們所關注的話題。
     - Speaker: 許清雄 (Stan)
     - Slides: 未提供
+     
   
+ 
+#### 2019/07/07
+- Working with PowerShell
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/working-with-powershell
+- Topics:
+  - PowerShell 橫空出世成為 Windows 的第一把手（誤），其實是燙手山芋？同時，微軟在近年將 PowerShell 帶來了跨平台以及開源的改變 (PowerShell Core)，既然 PowerShell 做為微軟強力主推的命令列管理神兵利器，那我們該如何學習 PowerShell 的技巧以及如何避免踩坑呢？
+    - Speaker: 艾蜜莉 (Emily)
+    - Slides: 未提供  
   

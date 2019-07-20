@@ -7,6 +7,7 @@
 - [介紹](#%E4%BB%8B%E7%B4%B9)
 - [活動投影片](#%E6%B4%BB%E5%8B%95%E6%8A%95%E5%BD%B1%E7%89%87)
   - [Timeline](#timeline)
+    - [2019/07/20](#20190720)
     - [2019/04/22](#20190422)
     - [2019/01/22](#20190122)
     - [2018/12/08](#20181208)
@@ -45,6 +46,13 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 
 ## 活動投影片
 ### Timeline
+#### 2019/07/20
+- SDN x Cloud Native Meetup #18
+- Monosapce 共同工作空間 / 台中市西區台灣大道二段2號
+- Topics:
+    - Better Practice: Day 2 Operation with Ansible
+        - Speaker: 黃秉鈞 Phil Huang
+        - Slide: https://speakerdeck.com/pichuang/20190720-better-practice-day-2-operaition-with-ansible
 #### 2019/04/22
 - SDN x Cloud Native Meetup #15
 - 天瓏資訊圖書 CodingSpace / 台北市中正區重慶南路一段105號 2F
@@ -542,3 +550,6 @@ CNCF 官方認證 Meetup: https://www.meetup.com/Cloud-Native-User-Group-Taiwan/
 - GitHub Load Balancer Introduction
     - Speaker: 何禮亦
     - Slides: https://drive.google.com/file/d/1G13yVnxDlsM9nWhLyr-qkht3WWArDHHR/view?fbclid=IwAR3sjW_XM-ehdvZrIkXUck00A8PBsavTPSvt2fwSlc0Si6HrruBjABxcId4
+- Better Practice: Day 2 Operation with Ansible
+    - Speaker: 黃秉鈞 Phil Huang
+    - Slide: https://speakerdeck.com/pichuang/20190720-better-practice-day-2-operaition-with-ansible

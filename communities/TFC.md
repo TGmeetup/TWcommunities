@@ -344,4 +344,25 @@
   - PowerShell 橫空出世成為 Windows 的第一把手（誤），其實是燙手山芋？同時，微軟在近年將 PowerShell 帶來了跨平台以及開源的改變 (PowerShell Core)，既然 PowerShell 做為微軟強力主推的命令列管理神兵利器，那我們該如何學習 PowerShell 的技巧以及如何避免踩坑呢？
     - Speaker: 艾蜜莉 (Emily)
     - Slides: 未提供  
+     
+  
+ 
+#### 2019/07/20
+- SDN x Cloud Native Meetup #18
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://www.meetup.com/CloudNative-Taiwan/events/262177100/
+- Topics:
+  - 基於 Ceph RGW 之上層 API Service 開發與效能分析。
+    - Speaker: 李麒傑 (James Li)
+    - Slides: https://speakerdeck.com/cijie/sdn-x-cloud-native-meetup-number-18
+  - 使用 Kubernetes CSI 與 Ceph 實現 Trustzone。
+    - Speaker: 林春旺
+    - Slides: https://speakerdeck.com/q60563/shi-yong-kubernetes-csi-yu-ceph-shi-xian-trustzone
+  - How to deal second interface service discovery and load balancer in Kubernetes。
+    - Speaker: 李孟澤
+    - Slides: https://www.slideshare.net/MengZeLi4/how-to-deal-second-interface-service-discovery-and-load-balancer-in-kubernetes
+  - Better Practice_ Day 2 Operaition with Ansible。
+    - Speaker: 黃秉鈞 (Phil Huang)
+    - Slides: https://speakerdeck.com/pichuang/20190720-better-practice-day-2-operaition-with-ansible
+    
   

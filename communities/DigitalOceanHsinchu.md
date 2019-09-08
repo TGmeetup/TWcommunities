@@ -16,6 +16,20 @@ We are a new local technology meetup group located at Hsinchu city, organized by
 - Facebook Group: https://www.facebook.com/groups/DigitalOceanHsinchu
 
 ## 活動投影片
+### DigitalOcean Hsichu x Golang TW Meetup
+###### `Golang`, `Locks`, `Go module`, `Bash`
+Date: 2019/09/07
+Information: https://www.facebook.com/DigitalOceanHsinchu/posts/1331766703649612
+- Topic: An Introduction to Locks in Go
+   - Speaker: Cherie Hsieh [@YuShuanHsieh](https://github.com/YuShuanHsieh)
+   - Slides: https://bit.ly/2kAA1n1
+- Topic: The usage and dependency resolving mechanism of Go module
+   - Speaker: Jacky Hung [@irake99](https://github.com/irake99)
+   - Slides: https://bit.ly/2kAq0X9
+- Topic: 突破盲點的 bash 使用技巧
+   - Speaker: gholk [@gholk](https://github.com/gholk)
+   - Slides: https://hackmd.io/@gholk/S1MpvZtmB
+
 ### 擁抱網路, Kubernetes-based Project 與 Podman x 感恩回饋 open source 季
 ###### `Kubernetes`, `Podman`, `DigitalOcean`
 Date: 2018/12/23  

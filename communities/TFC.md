@@ -377,5 +377,5 @@
     - Slides: https://www.slideshare.net/jasoncheng7115/ka-166044096
   - 滲透測試工具實戰
     - Speaker: 克雷格 (Craig Chen)
-    - Slides: 
+    - Slides: https://www.slideshare.net/secret/ojwcvBofmPUoIi
 

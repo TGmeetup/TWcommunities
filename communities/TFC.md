@@ -366,3 +366,17 @@
     - Slides: https://speakerdeck.com/pichuang/20190720-better-practice-day-2-operaition-with-ansible
     
   
+  
+#### 2019/08/24
+- Hacking Holiday
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/kali-workshop-201908
+- Topics:
+  - 系統安全稽核即刻上手
+    - Speaker: 鄭郁霖 (Jason Cheng)
+    - Slides: https://www.slideshare.net/jasoncheng7115/ka-166044096
+  - 滲透測試工具實戰
+    - Speaker: 克雷格 (Craig Chen)
+    - Slides: https://www.slideshare.net/secret/ojwcvBofmPUoIi
+
+ 

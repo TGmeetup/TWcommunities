@@ -378,5 +378,17 @@
   - 滲透測試工具實戰
     - Speaker: 克雷格 (Craig Chen)
     - Slides: https://www.slideshare.net/secret/ojwcvBofmPUoIi
-
+     
+  
+ 
+#### 2019/09/28
+- Data Recovery ＆ Open Source
+- Monospace (台中市西區臺灣大道二段2號16F-2)
+- Event: https://tfc.kktix.cc/events/datarecovery-opensource
+- Topics:
+  - 逝去的時光不能回溯，但資料救援可以。提到資料救援恢復，我們能夠想到的都是昂貴高價的收費、特殊設備與專用軟體。然而在實際應用上，資料救援非常仰賴開源軟體與硬體，就讓我們以 Source Code 來翻開資料救援的神秘面紗！
+    - Speaker: 熊大 (THX AKA)
+    - Slides: 未提供  
+     
+  
  

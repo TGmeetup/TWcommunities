@@ -96,7 +96,7 @@
 - Event: https://tfc.kktix.cc/events/smart-home-share
 - Topics:
   - 隨著科技進步與普及，智慧家庭已經深入人心，但是要如何以千元花費打造最潮的智慧家庭以完成夢想呢？
-    - Speaker: 張閔壽 (Joecool Chang)
+    - Speaker: 就酷 (Joecool Chang)
     - Slides: 未提供
   
   
